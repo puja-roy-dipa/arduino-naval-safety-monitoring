@@ -338,23 +338,32 @@ The source code uses:
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 ```
-Course Information
-Course Title: Electronic Shop Practice
-Course Code: ECE 2200
-Credit: 1.50 Credits
-Department: Electrical & Computer Engineering
-Institution: Rajshahi University of Engineering & Technology (RUET)
-Project Type: Academic Embedded-System Project
-Original Project Year: 2023
-The project was completed as part of practical coursework emphasizing:
+# Course Information
+
+**Course Title:** Electronic Shop Practice  
+**Course Code:** ECE 2200  
+**Credit:** 1.50 Credits  
+**Department:** Electrical & Computer Engineering  
+**Institution:** Rajshahi University of Engineering & Technology (RUET)  
+**Project Type:** Academic Embedded-System Project  
+**Original Project Year:** 2023
+
+The project was completed as part of practical coursework focused on:
+
 - Electronic-system implementation
-- Sensor interfacing
 - Embedded programming
+- Sensor interfacing
 - Hardware prototyping
 - Circuit integration
+- Real-time monitoring
 - Engineering problem solving
-Learning Outcomes
+
+---
+
+# Learning Outcomes
+
 Through this project, practical experience was gained in:
+
 - Designing an Arduino-based embedded monitoring system
 - Interfacing multiple analog and digital sensors
 - Processing real-time sensor measurements
@@ -365,14 +374,52 @@ Through this project, practical experience was gained in:
 - Estimating the approximate local direction of nearby objects
 - Understanding GPS-based position tracking
 - Designing visual and audible warning systems
-- Monitoring power-supply conditions
+- Monitoring battery and power-supply conditions
 - Developing and debugging embedded C/C++ programs
 - Working with serial communication
 - Integrating hardware and software components
 - Building and testing prototype electronic systems
 - Understanding practical limitations of low-cost sensors
-Author
-Puja Roy Dipa
+
+---
+
+# Author
+
+**Puja Roy Dipa**  
+
+B.Sc. in Electrical & Computer Engineering  
+Department of Electrical & Computer Engineering  
+Rajshahi University of Engineering & Technology (RUET)  
+Bangladesh
+
+---
+
+# Disclaimer
+
+This repository is intended for:
+
+- Academic documentation
+- Educational use
+- Embedded-system learning
+- Electronics prototyping
+- Technical portfolio presentation
+
+The system is **not designed, tested, certified, or approved for operational marine or naval deployment**.
+
+It should not be relied upon for:
+
+- Professional vessel navigation
+- Collision avoidance
+- Marine fire protection
+- Emergency-response systems
+- Certified gas detection
+- Certified bilge monitoring
+- Life-safety applications
+- Industrial safety systems
+
+The original 2023 source code, detailed circuit diagram, and complete hardware documentation are no longer available. The current implementation is a reconstructed version based on the original project concept, remembered functionality, and intended system architecture.
+
+Any real-world safety-critical marine system should use appropriately certified hardware, validated software, redundant sensing, professional navigation equipment, and applicable maritime safety standards.
 B.Sc. in Electrical & Computer Engineering
 Department of Electrical & Computer Engineering
 Rajshahi University of Engineering & Technology (RUET)
